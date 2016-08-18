@@ -10,6 +10,11 @@ using COMP2006_S2016_FinalExamV2.Models;
 
 namespace COMP2006_S2016_FinalExamV2.Controllers
 {
+    //Author: John Horne
+    //Student ID: 200240927
+    //Date Modified: 08/18/16
+    //File History: scaffolded project
+    //File Description: Routes the Artists' page(s)
     public class ArtistsController : Controller
     {
         private MVCMusicStoreContext db = new MVCMusicStoreContext();

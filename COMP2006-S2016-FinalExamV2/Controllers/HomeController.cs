@@ -6,6 +6,12 @@ using System.Web.Mvc;
 
 namespace COMP2006_S2016_FinalExamV2.Controllers
 {
+
+    //Author: John Horne
+    //Student ID: 200240927
+    //Date Modified: 08/18/16
+    //File History: initial commit
+    //File Description: Routes pages about, index, and contact pages
     public class HomeController : Controller
     {
         public ActionResult Index()
